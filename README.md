@@ -1,3 +1,3 @@
 # guardprojecti
 vartijasovelus
-Niille jotka valittaa projektin nimestä on tuomittava julkiseen teloitukseen
+Niille jotka valittaa projektin nimestä on tuomittava julkiseen teloitukseen.
